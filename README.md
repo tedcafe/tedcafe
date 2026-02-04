@@ -1,6 +1,2 @@
 ### Hi there~ I'm Ted. 👋
 
-## I'm ...
-
-- 🔭 I’m currently working on Kakao corp.
-- 🌱 I’m currently learning ML, Neuroscience, Illustrator, Cello, Backpacking, Drawing, ...
